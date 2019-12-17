@@ -9,21 +9,21 @@
   },
   "text": {
     "more": "v1 test of cardinal map thing, just to see if this works",
-    "intro": "v1 test of cardinal map thing",
+    "intro": "This app shows how all courses at Stanford are related to each other!",
     "title": "Stanford Cardinal Direction"
   },
   "legend": {
     "edgeLabel": "Prerequisites",
-    "colorLabel": "DepartmentType",
+    "colorLabel": "Department Ty[e",
     "nodeLabel": "Class"
   },
   "features": {
-    "search": false,
+    "search": true,
     "groupSelectorAttribute": "department",
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": "Label"
   },
   "sigma": {
