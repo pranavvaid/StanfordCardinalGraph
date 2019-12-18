@@ -8,13 +8,17 @@
     "text": "Pranav Vaid"
   },
   "text": {
-    "more": "This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for.",
-    "intro": "This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for.",
+    "more": "Click on a node to display the courses that it leads to. This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for. Template provided by InteractiveVis project
+http://blogs.oii.ox.ac.uk/vis/
+https://github.com/oxfordinternetinstitute/InteractiveVis/",
+    "intro": "Click on a node to display the courses that it leads to. This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for. Template provided by InteractiveVis project
+http://blogs.oii.ox.ac.uk/vis/
+https://github.com/oxfordinternetinstitute/InteractiveVis/",
     "title": "Stanford Cardinal Direction"
   },
   "legend": {
     "edgeLabel": "Prerequisites",
-    "colorLabel": "Department Ty[e",
+    "colorLabel": "Department Type",
     "nodeLabel": "Class"
   },
   "features": {
@@ -40,10 +44,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 1.5,
+      "minEdgeSize": 1.0,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 13
     },
     "mouseProperties": {
       "maxRatio": 20,
