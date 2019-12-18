@@ -8,8 +8,8 @@
     "text": "Pranav Vaid"
   },
   "text": {
-    "more": "This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for.",
-    "intro": "This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for.",
+    "more": "Click on a node to show more info about it! This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for. Template for web visualization provided by InteractiveVis project",
+    "intro": "Click on a node to show more info about it! This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for. Template for web visualization provided by InteractiveVis project",
     "title": "Stanford Cardinal Direction"
   },
   "legend": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 0.9,
+      "minEdgeSize": 0.8,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 9
     },
     "mouseProperties": {
       "maxRatio": 20,
