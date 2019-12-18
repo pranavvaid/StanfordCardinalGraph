@@ -8,9 +8,9 @@
     "text": "Pranav Vaid"
   },
   "text": {
-    "more": "Click on a node to show more info about it! This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for. Template for web visualization provided by InteractiveVis project",
-    "intro": "Click on a node to show more info about it! This app shows how all courses at Stanford are related to each other! Each node represents a course, and the edges leading away from it show which other courses it is a prerequisite for. Template for web visualization provided by InteractiveVis project",
-    "title": "Stanford Cardinal Direction"
+    "more": "This visualization shows how courses at Stanford are related to each other. Please note that courses that aren't prerequisites or don't have any prerequisites aren't represented on this graph. Template for web visualization provided by InteractiveVis project.",
+    "intro": "This visualization shows how courses at Stanford are related to each other. Please note that courses that aren't prerequisites or don't have any prerequisites aren't represented on this graph. Template for web visualization provided by InteractiveVis project.",
+    "title": "Stanford Cardinal Direction by Pranav Vaid"
   },
   "legend": {
     "edgeLabel": "Prerequisites",
